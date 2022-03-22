@@ -20,8 +20,8 @@ This Java desktop application is an 'arcade' of trivia-based mini games, all dep
 5) run `javac App.java` then `java App`
 
 ### Team Members
-Ryan Cabell
-Francisco Serratos-Prudencio
+Ryan Cabell  
+Francisco Serratos-Prudencio  
 Andy Kawabata
 
 
